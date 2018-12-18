@@ -10,3 +10,4 @@ Available on [Envato Tuts+](https://tutsplus.com). Teaching skills to millions w
 
 [published url]: http://code.tutsplus.com/tutorials/adding-swipe-gestures-to-recyclerviews--cms-32427
 [instructor url]: https://tutsplus.com/authors/ashraff-hathibelagal
+
